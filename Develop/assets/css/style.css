@@ -90,20 +90,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* .benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
+/* combined classes to one benefit tag*/
 
 
 .benefit h3{
@@ -111,20 +98,7 @@ p {
     text-align: center;
 }
 
-/* .benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
+/* Combined classes to benefit h3 tag  */
 
 .benefit img {
     display: block;
@@ -132,22 +106,7 @@ p {
     max-width: 150px;
 }
 
-/* .benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px; */
+/* ombined classes to benefit img tag */
 
 
 .options {
@@ -158,48 +117,13 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* .search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff; 
-}*/
+/* Combined classes to an options tag*/
 
 .options img {
     max-height: 200px;
 }
 
-/* .search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-} */
+/* Combined classes to an options img tag*/
 
 .options h2 {
     margin-bottom: 20px;
@@ -207,20 +131,7 @@ p {
 }
 
 
-/* .search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-} */
+/* Combined classes to an options h2 tag*/
 
 .footer {
     padding: 30px;
